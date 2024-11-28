@@ -11,3 +11,5 @@ Editor Mode:
 Just enter in Commandline "py modmetadata.py" to start it using GUI mode,.. its looking like this for ex.:
 
 ![meta_modifier](https://github.com/user-attachments/assets/0bef21b1-eb28-402e-a87a-87ad3fcc415e)
+
+Source: https://github.com/zeittresor/py-sd-modmetadata
